@@ -7,10 +7,10 @@
 
 ```text
 Total Stars Earned     9                 
-Total Commits (2022)   17                 ╔═╗    
-Total PRs              14                 ╠═╣ ═╬═
+Total Commits (2022)   21                 ╔═╗    
+Total PRs              16                 ╠═╣ ═╬═
 Total Issues           7                  ╩ ╩    
-Contributed to         1                 
+Contributed to         2                 
 ```
 
 <!--END_SECTION:stats-->
@@ -18,11 +18,11 @@ Contributed to         1
 <!--START_SECTION:stats:langs-->
 
 ```text
-Java         90.54%   >>>>>>>>>>>>>>>>>>>>>>>--
+Java         90.50%   >>>>>>>>>>>>>>>>>>>>>>>--
 HTML         8.37%    >>-----------------------
 JavaScript   0.58%    -------------------------
 CSS          0.27%    -------------------------
-Python       0.10%    -------------------------
+Python       0.13%    -------------------------
 ```
 
 <!--END_SECTION:stats:langs-->
